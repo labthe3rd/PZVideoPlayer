@@ -1,0 +1,16 @@
+{
+  "name": "com.thepartyzonevr.videoplayer",
+  "displayName": "The Party Zone Video Player",
+  "version": "2.0.0",
+  "description": "A video player for clubs made by clubs! Add bookmarks for your regular performers in Unity or pre-set urls with our state of the art quick play system!",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "Louis Bersine",
+    "email": "labthe3rd@thepartyzonevr.com"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "C:\\Unity Projects\\The Party Zone Video Player\\Packages\\com.thepartyzonevr.videoplayer",
+  "unity": "2019.4"
+}
